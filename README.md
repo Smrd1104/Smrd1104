@@ -82,11 +82,8 @@ Here are some of my featured public projects:
 
 - [GitHub](https://github.com/Smrd1104)
 - [LinkedIn](https://linkedin.com/in/YOUR-LINK) <!-- Replace with your actual LinkedIn link -->
-- [Twitter](https://twitter.com/YOUR_HANDLE) <!-- Optional -->
+-
 
 ---
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Smrd1104&theme=dracula&hide_border=true&area=true" alt="activity graph" />
-</p>
 

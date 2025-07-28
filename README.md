@@ -81,8 +81,8 @@ Here are some of my featured public projects:
 ### 🤝 Let's Connect
 
 - [GitHub](https://github.com/Smrd1104)
-- [LinkedIn](https://linkedin.com/in/YOUR-LINK) <!-- Replace with your actual LinkedIn link -->
--
+- [LinkedIn](https://www.linkedin.com/in/mohamed-riyasdeen-11mrd97/) <!-- Replace with your actual LinkedIn link -->
+
 
 ---
 

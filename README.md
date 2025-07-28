@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **Smrd1104/Smrd1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
